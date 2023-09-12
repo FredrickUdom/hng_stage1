@@ -10,7 +10,7 @@ export class PersonalService {
       current_day: 'Monday',
       utc_time: Date(),
       track: 'Backend',
-      github_file_url: '',
+      github_file_url: 'https://github.com/FredrickUdom/hng_stage1/blob/main/src/app.service.ts',
       github_repo_url: 'https://github.com/FredrickUdom/hng_stage1.git',
       status_code: 200
     }
